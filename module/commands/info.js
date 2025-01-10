@@ -39,10 +39,10 @@ const moment = require("moment-timezone");
 
 ⁂𝘽𝙤𝙩 𝙉𝙖𝙢𝙚: ${global.config.BOTNAME}
 ✡𝘽𝙤𝙩 𝙋𝙧𝙚𝙛𝙞𝙭: ${global.config.PREFIX}
-✫𝘾𝙤𝙙𝙚 𝙊𝙬𝙣𝙚𝗿🌼 :🔰𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐀𝐧𝐢𝐤🔰,
+✫𝘾𝙤𝙙𝙚 𝙊𝙬𝙣𝙚𝗿🌼 :🔰Alax jahid🔰,
 
 ✬𝐅𝐛 𝐋𝐢𝐧𝐤: https://www.facebook.com/LostFragmentX
-✬𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: wa.me/+601161213515
+✬𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: wa.me/880+01617938423
 
 ➳✴️𝙈𝘼𝙎𝙏𝙀𝙍 𝙊𝙁 𝘽𝙊𝙏'𝙎 𝙄𝙉𝙎𝙄𝘿𝙀✴️
 
