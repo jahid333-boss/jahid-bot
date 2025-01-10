@@ -36,19 +36,19 @@ var link = ["https://i.postimg.cc/j5MM8dgn/Picsart-24-12-23-11-23-30-237.jpg",
 
 ❣️❤️ENJOY MUCH MUCH ❤️❣️
 
-❌THis Bot Made By : MOHAMMAD ANIK❤️❣️
+❌THis Bot Made By : aAlax Jahid❤️❣️
 
 🔰THIS IS BANGLA AI BOT 🔰
 
 BOT NAME : ${global.config.BOTNAME}
 
-💖TAKE LOVE FROM ANIK-BOT💖
+💖TAKE LOVE FROM jahid-BOT💖
 
 🌺ব্যবহারে মানুষ চেনা যায় ✔️
 
-⚠️BOT: ADMIN: MOHAMMAD ANIK⚠️
+⚠️BOT: ADMIN: Alax jahid⚠️
 
-⚠️BOT:MAIN ADMIN: MOHAMMAD ANIK⚠️
+⚠️BOT:MAIN ADMIN: Alax jahid⚠️
 
 ⚠️WHATSAPP: wa.me/+601161213515⚠️
 
